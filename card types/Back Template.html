@@ -1,0 +1,44 @@
+{{FrontSide}}
+
+<div class="section">
+    <div id="back" class="items">{{paraphrase}}</div>
+    {{#mark}}
+    <div id="back-extra1" class="items">
+        <hr />{{mark}}
+    </div>
+    {{/mark}}
+    {{#source}}
+    <div id="back-extra2" class="items">
+        <hr />{{source}}
+    </div>
+    {{/source}}
+    {{#level}}
+    <div id="back-extra3" class="items">
+        <hr />{{level}}
+    </div>
+    {{/level}}
+</div>
+
+<script>
+    const cardElement = document.querySelector('.card');
+
+    cardElement.onclick = () => {
+        const spanChnTrans = document.querySelectorAll('.chn_tran');
+        spanChnTrans.forEach((spanElement) => {
+            if (spanElement.style.display === 'none' || spanElement.style.display === '') {
+                spanElement.style.display = 'inline';
+            } else {
+                spanElement.style.display = 'none';
+            }
+        });
+
+        const spanChnSents = document.querySelectorAll('.chn_sent');
+        spanChnSents.forEach((spanElement) => {
+            if (spanElement.style.display === 'none' || spanElement.style.display === '') {
+                spanElement.style.display = 'inline';
+            } else {
+                spanElement.style.display = 'none';
+            }
+        });
+    };
+</script>

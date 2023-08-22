@@ -1,0 +1,48 @@
+.card {
+    margin: 12px;
+    text-align: left;
+    background-color: #fff;
+}
+
+.section {
+    color: #414141;
+    background-color: #fafafa;
+    font-family: "PingFang SC Medium", "Segoe UI", Arial, "Microsoft Yahei", sans-serif;
+    font-size: 16px;
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.2), 0 0px 0px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin: 12px 0;
+    padding: 12px 0;
+}
+
+.items {
+    line-height: 1.5em;
+    margin: 0 12px;
+}
+
+#front {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: left;
+}
+
+hr {
+    border: none;
+    border-top: 0.5px solid #e1e5ed;
+}
+
+span.chn_tran, span.chn_sent {
+	display: none;
+}
+
+/* ------ DARK MODE ------ */
+@media (prefers-color-scheme: dark) {
+    .section {
+        background-color: #1b1c1e;
+        color: white;
+    }
+
+    ul.sents {
+        background-color: #282a2e !important;
+    }
+}
