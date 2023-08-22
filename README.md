@@ -9,7 +9,7 @@
 
 效果演示：
 
-<img src="images/README.images/image-20230823030353582.png" alt="image-20230823030353582" style="zoom:50%;" />
+<img src="images/README.images/image-20230823030353582.png" alt="image-20230823030353582" style="width:50%;" />
 
 <img src="images/README.images/image-20230823030427276.png" alt="image-20230823030427276" style="zoom: 50%;" />
 
