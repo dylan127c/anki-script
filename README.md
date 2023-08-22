@@ -9,7 +9,7 @@
 
 效果演示：
 
-<img src="images/README.images/image-20230823030353582.png" alt="image-20230823030353582" style="zoom:50%;" />
+<img src="images/README.images/image-20230823030353582.png" alt="image-20230823030353582" style="width:50%;" />
 
 <img src="images/README.images/image-20230823030427276.png" alt="image-20230823030427276" style="zoom: 50%;" />
 
@@ -30,12 +30,12 @@
 
 Anki 内的牌组域设置：
 
-<img src="images/README.images/image-20230823030945419.png" alt="image-20230823030945419" style="zoom:50%;" />
+<img src="images/README.images/image-20230823030945419.png" alt="image-20230823030945419" style="width:50%;" />
 
 [Online Dictionary Helper](https://github.com/ninja33/ODH) 插件设置：
 
-<img src="images/README.images/image-20230823031455178.png" alt="image-20230823031455178" style="zoom:50%;" />
+<img src="images/README.images/image-20230823031455178.png" alt="image-20230823031455178" style="width:50%;" />
 
-<img src="images/README.images/image-20230823031216867.png" alt="image-20230823031216867" style="zoom:50%;" />
+<img src="images/README.images/image-20230823031216867.png" alt="image-20230823031216867" style="width:50%;" />
 
-<img src="images/README.images/image-20230823031305997.png" alt="image-20230823031305997" style="zoom:50%;" />
+<img src="images/README.images/image-20230823031305997.png" alt="image-20230823031305997" style="width:50%;" />
