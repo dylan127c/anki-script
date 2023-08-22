@@ -15,6 +15,7 @@
 <p align="center">
 <img src="images/README.images/image-20230823030427276.png" alt="image-20230823030427276" style="width: 80%;" />
 </p>
+
 脚本对应的在线词典名称：
 
 | dictionary script |    dictionary name     |
