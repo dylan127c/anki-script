@@ -1,6 +1,6 @@
 # anki-script
 
-本仓库用于存储适用于 [Online Dictionary Helper](https://github.com/ninja33/ODH) 自选脚本，该脚本可以在使用 ODH 插件制卡时，提供更为规范的代码格式。
+本仓库用于存储适用于 [Online Dictionary Helper](https://github.com/ninja33/ODH) 的自选脚本，该脚本可以在使用 ODH 插件制卡时，提供更为规范的代码格式。
 
 国内推荐使用 CDN 加速：
 
