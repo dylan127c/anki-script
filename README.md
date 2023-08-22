@@ -8,10 +8,12 @@
 - 剑桥词典：https://cdn.jsdelivr.net/gh/dylan127c/anki-script@main/encn_Cambridge.js
 
 效果演示：
-
-<img src="images/README.images/image-20230823030353582.png" alt="image-20230823030353582" style="width:50%;" />
-
-<img src="images/README.images/image-20230823030427276.png" alt="image-20230823030427276" style="zoom: 50%;" />
+<p align="center">
+<img src="images/README.images/image-20230823030353582.png" alt="image-20230823030353582" style="width:42%;" />
+</p>
+<p align="center">
+<img src="images/README.images/image-20230823030427276.png" alt="image-20230823030427276" style="width: 80%;" />
+</p>
 
 脚本对应的在线词典名称：
 
@@ -29,13 +31,17 @@
 |        card types         |                 Anki 内的具体 ODH 牌组的配置                 |
 
 Anki 内的牌组域设置：
-
-<img src="images/README.images/image-20230823030945419.png" alt="image-20230823030945419" style="zoom:50%;" />
+<p align="center">
+<img src="images/README.images/image-20230823030945419.png" alt="image-20230823030945419" style="width:50%;" />
+</p>
 
 [Online Dictionary Helper](https://github.com/ninja33/ODH) 插件设置：
-
-<img src="images/README.images/image-20230823031455178.png" alt="image-20230823031455178" style="zoom:50%;" />
-
-<img src="images/README.images/image-20230823031216867.png" alt="image-20230823031216867" style="zoom:50%;" />
-
-<img src="images/README.images/image-20230823031305997.png" alt="image-20230823031305997" style="zoom:50%;" />
+<p align="center">
+<img src="images/README.images/image-20230823031455178.png" alt="image-20230823031455178" style="width:42%;" />
+</p>
+<p align="center">
+<img src="images/README.images/image-20230823031216867.png" alt="image-20230823031216867" style="width:42%;" />
+</p>
+<p align="center">
+<img src="images/README.images/image-20230823031305997.png" alt="image-20230823031305997" style="width:42%;" />
+</p>
